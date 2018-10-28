@@ -10,4 +10,4 @@ https://webchainsolutions.github.io/barbaracartomante.github.io
 ![alt text](
 https://raw.githubusercontent.com/WebChainSolutions/barbaracartomante.com.github.io/master/images/home.JPG)
 
-Coded by: <a href="https://github.com/JonnyBanana">Nicolò Saporito</a>
+Coded by: <a href="https://github.com/JonnyBanana">Jonny Banana</a>
